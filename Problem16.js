@@ -1,4 +1,4 @@
-//Promise Time Limit
+// Promise Time Limit
 
 // setTimeOut fn is a async function and we use promise to handle it
 
